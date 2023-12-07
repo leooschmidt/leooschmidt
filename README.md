@@ -1,17 +1,15 @@
-# Olá, me chamo Leonardo ! 
+<h1 align="center">Hi 👋, I'm Leonardo</h1>
+<h3 align="center">A Computer Science student from Ijuí, Brazil</h3>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leooschmidt)](https://github.com/leooschmidt)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-schmidt-b11103223/)](https://www.linkedin.com/in/leonardo-schmidt-b11103223/)
+- 📫 How to reach me **leonardoojczenaszschmidt@gmail.com**
 
-## Bem vindo ao meu perfil 👋
-### Ainda não tem muita coisa aqui, mas com o tempo vou compartilhando meus projetos.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/leonardo-schmidt-b11103223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-schmidt-b11103223" height="30" width="40" /></a>
+<a href="https://instagram.com/leonardooschmidt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardooschmidt" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- 🔭 Atualmente estou trabalhando como estagiário na Prefeitura Municipal de Ijuí.
-- ⚡ Estou sempre buscando o conhecimento para poder me tornar um profissional mais completo e uma pessoa melhor :)
-
-## Estatísticas do meu Git
-<div>
-<a href="https://github.com/leooschmidt">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leooschmidt&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leooschmidt&show_icons=true&locale=en" alt="leooschmidt" /></p>
